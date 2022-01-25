@@ -1,4 +1,4 @@
-# MachineLearninings
+# MachineLearnining
 DataAnalysisPythonMlPreprocessing
 Data Preprocessing/ Data cleaning/ Data wrangling
 using Pandas:
